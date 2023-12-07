@@ -1,0 +1,3 @@
+C:/Users/benev/CLionProjects/Transanction data processor/cmake-build-debug/CMakeFiles/Transanction_data_processor.dir
+C:/Users/benev/CLionProjects/Transanction data processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/benev/CLionProjects/Transanction data processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
